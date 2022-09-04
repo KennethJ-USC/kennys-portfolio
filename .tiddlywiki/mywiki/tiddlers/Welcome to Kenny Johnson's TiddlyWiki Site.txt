@@ -1,0 +1,3 @@
+Welcome!
+
+This site is a record of things I would like to share, but do not fit elsewhere in my web presence, as well as a portfolio site / test bed for various devops and cloud architecture tools and technologies. 
